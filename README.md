@@ -10,11 +10,11 @@ Make sure you have c++ compiler.
 
 Run the following command 
 
-{% highlight ruby %}
 
+```````
 $ c++ *.cpp -o tictactoegame
 $ ./tictactoegame
 
-{% endhighlight %}
+```````
 
 There you go, enjoy the game. For now, it just support 2 players, it will be later upgraded to have an AI mode. 
