@@ -4,7 +4,7 @@ A simple tic-tac-toe game using C++
 
 # Before start
 
-Make sure you have c/c++ compiler.
+Make sure you have C/C++ compiler.
 
 # How to run?
 
