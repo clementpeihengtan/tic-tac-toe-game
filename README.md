@@ -16,4 +16,4 @@ $ c++ *.cpp -o tictactoegame
 $ ./tictactoegame
 ```````
 
-There you go, enjoy the game. For now, it just support 2 players, it will be later upgraded to have an AI mode. 
+There you go, enjoy the game. For now, it just supports 2 players, it will be later upgraded to have an AI mode. 
