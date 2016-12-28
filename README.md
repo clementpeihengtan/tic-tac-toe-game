@@ -16,4 +16,4 @@ $ c++ *.cpp -o tictactoegame
 $ ./tictactoegame
 ```````
 
-There you go, enjoy the game.
+There you go, enjoy the game with your friends.
